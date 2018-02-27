@@ -22,3 +22,5 @@ This repo just has some of the solutions that I've written for various Project E
 [**Problem 10 - Summation of primes.py**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%2010%20-%20Summation%20of%20primes.py)
 
 [**Problem 12: Highly divisible triangular number**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%2012%20-%20Highly%20divisible%20triangular%20number.py)
+
+[**Problem 14: Longest Collatz sequence**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%2014%20-%20Longest%20Collatz%20sequence.py)
