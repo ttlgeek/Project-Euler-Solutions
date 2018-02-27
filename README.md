@@ -18,3 +18,5 @@ This repo just has some of the solutions that I've written for various Project E
 [**Problem 8: Largest product in a series**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%208%20-%20Largest%20product%20in%20a%20series.py)
 
 [**Problem 9: Special Pythagorean triplet**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%209%20-%20Special%20Pythagorean%20triplet.py)
+
+[**Problem 10 - Summation of primes.py**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%2010%20-%20Summation%20of%20primes.py)
