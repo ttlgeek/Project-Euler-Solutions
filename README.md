@@ -12,3 +12,5 @@ This repo just has some of the solutions that I've written for various Project E
 [**Problem 4: Largest palindrome product**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%204%20-%20Largest%20palindrome%20product.py)
 
 [**Problem 6: Sum square difference**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%206%20-%20Sum%20square%20difference.py)
+
+[**Problem 7: 10001st prime**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%207%20-%2010001st%20prime.py)
