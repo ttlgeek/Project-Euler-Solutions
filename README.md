@@ -26,3 +26,5 @@ This repo just has some of the solutions that I've written for various Project E
 [**Problem 14: Longest Collatz sequence**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Solutions/Problem%2014%20-%20Longest%20Collatz%20sequence.py)
 
 [**Problem 16: Power digit sum**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Solutions/Problem%2016%20-%20Power%20digit%20sum.py)
+
+[**Problem 20: Factorial digit sum**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Solutions/Problem%2020%20-%20Factorial%20digit%20sum.py)
