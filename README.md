@@ -24,3 +24,5 @@ This repo just has some of the solutions that I've written for various Project E
 [**Problem 12: Highly divisible triangular number**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%2012%20-%20Highly%20divisible%20triangular%20number.py)
 
 [**Problem 14: Longest Collatz sequence**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%2014%20-%20Longest%20Collatz%20sequence.py)
+
+[**Problem 16: Power digit sum**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%2016%20-%20Power%20digit%20sum.py)
