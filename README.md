@@ -14,3 +14,5 @@ This repo just has some of the solutions that I've written for various Project E
 [**Problem 6: Sum square difference**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%206%20-%20Sum%20square%20difference.py)
 
 [**Problem 7: 10001st prime**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%207%20-%2010001st%20prime.py)
+
+[**Problem 8: Largest product in a series**](https://github.com/ttlgeek/Project-Euler-Solutions/blob/master/Problem%208%20-%20Largest%20product%20in%20a%20series.py)
